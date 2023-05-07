@@ -17,6 +17,7 @@ type ReadmeData struct {
 	Tools          []Badge    `json:"tools"`
 }
 
+// Uses https://simpleicons.org and https://shields.io
 type Badge struct {
 	Text      string `json:"text"`
 	BGColor   string `json:"color"`
@@ -64,6 +65,7 @@ var funcs = template.FuncMap{
 		}
 		return s
 	},
+	// Integrate image with markdown syntax
 	"badge": func(b Badge) string {
 		return "![" + b.Text + "](" + b.Url() + ")"
 	},
