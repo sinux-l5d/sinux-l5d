@@ -96,6 +96,12 @@
             "color": "000000",
             "logo": "rust",
             "logo_color": "white"
+        },
+        {
+            "text": "Vue.js",
+            "color": "4FC08D",
+            "logo": "vue.js",
+            "logo_color": "white"
         }
     ],
     "dont_ask": [
