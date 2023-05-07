@@ -1,0 +1,113 @@
+{
+    "known_languages": [
+        {
+            "name": "French",
+            "github_emoji": ":fr:"
+        },
+        {
+            "name": "English",
+            "github_emoji": ":uk:"
+        }
+    ],
+    "wish_languages": [
+        {
+            "name": "German",
+            "github_emoji": ":de:"
+        },
+        {
+            "name": "Spanish",
+            "github_emoji": ":es:"
+        }
+    ],
+    "love": [
+        {
+            "text": "(GNU/)Linux",
+            "color": "FCC624",
+            "logo": "linux",
+            "logo_color": "black"
+        },
+        {
+            "text": "(neo)vim",
+            "color": "019733",
+            "logo": "vim",
+            "logo_color": "white"
+        },
+        {
+            "text": "Go",
+            "color": "00ADD8",
+            "logo": "go",
+            "logo_color": "white"
+        }
+    ],
+    "using": [
+        {
+            "text": "Python",
+            "color": "3776AB",
+            "logo": "python",
+            "logo_color": "white"
+        },
+        {
+            "text": "TypeScript",
+            "color": "3178C6",
+            "logo": "typescript",
+            "logo_color": "white"
+        },
+        {
+            "text": "Docker",
+            "color": "2496ED",
+            "logo": "docker",
+            "logo_color": "white"
+        },
+        {
+            "text": "AWS",
+            "color": "232F3E",
+            "logo": "amazonaws",
+            "logo_color": "white"
+        },
+        {
+            "text": "Java",
+            "color": "007396"
+        }
+    ],
+    "tools": [
+        {
+            "text": "Git",
+            "color": "F05032",
+            "logo": "git",
+            "logo_color": "white"
+        },
+        {
+            "text": "VS Code",
+            "color": "007ACC",
+            "logo": "visualstudiocode",
+            "logo_color": "white"
+        },
+        {
+            "text": "Alacritty",
+            "color": "F46D01",
+            "logo": "alacritty",
+            "logo_color": "white"
+        },
+        {}
+    ],
+    "interest": [
+        {
+            "text": "Rust",
+            "color": "000000",
+            "logo": "rust",
+            "logo_color": "white"
+        }
+    ],
+    "dont_ask": [
+        {
+            "text": "C#",
+            "color": "239120"
+        },
+        {
+            "text": "Windows",
+            "color": "0078D6",
+            "logo": "windows",
+            "logo_color": "white"
+        }
+    ]
+}
