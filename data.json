@@ -59,6 +59,12 @@
             "logo_color": "white"
         },
         {
+            "text": "Azure",
+            "color": "0078D4",
+            "logo": "microsoftazure",
+            "logo_color": "white"
+        },
+        {
             "text": "AWS",
             "color": "232F3E",
             "logo": "amazonaws",
