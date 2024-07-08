@@ -1,4 +1,4 @@
-# Welcome, Bienvenue, Willkommen, Bienvenido
+## Welcome, Bienvenue, Willkommen, Bienvenido
 
 Hi dear visitor/colleague/friend, thanks for popping over :upside_down_face:.
 
@@ -6,9 +6,9 @@ I'm Simon and I'm a software engineer. I'm currently on my 2nd year of French ma
 
 I've also been studying Cloud Computing (BSc Hons) at [Dundalk Institute of Technology](https://www.dkit.ie/) in Ireland on an Erasmus+ :eu: exchange program.
 
-## What I do :computer:
+### What I do :computer:
 
-<a href="https://roadmap.sh/u/sinuxl5d"><img src="https://roadmap.sh/card/tall/668bdd3a501413692bf3eaf9?variant=light&roadmaps=linux%2Cgolang%2Cdevops%2Ckubernetes" alt="completed learning topics" align="left"/></a>
+<a href="https://roadmap.sh/u/sinuxl5d"><img src="https://roadmap.sh/card/tall/668bdd3a501413692bf3eaf9?variant=light&roadmaps=linux%2Cgolang%2Cdevops%2Ckubernetes" alt="completed learning topics" align="right"/></a>
 
 |               I love (and use)                  |                    I use/know                    |                    I'm interested                   |
 |:-----------------------------------------------:|:------------------------------------------------:|:---------------------------------------------------:|
@@ -19,6 +19,6 @@ Have mercy on me, avoid those: ![C#](https://img.shields.io/badge/-C%23-239120) 
 
 As a final set, my favorite tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Alacritty](https://img.shields.io/badge/-Alacritty-F46D01?style=flat&logo=alacritty&logoColor=white) ![](https://img.shields.io/badge/--) 
 
-## Languages build bridges :people_holding_hands:
+### Languages build bridges :people_holding_hands:
 
 I :heart: languages, and I'm currently speaking French :fr: and English :uk:. But I'm trying to learn German :de: and Spanish :es:, so come teach me a word or two :grinning:.
