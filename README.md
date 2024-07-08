@@ -8,6 +8,8 @@ I've also been studying Cloud Computing (BSc Hons) at [Dundalk Institute of Tech
 
 ## What I do :computer:
 
+<a href="https://roadmap.sh/u/sinuxl5d"><img src="https://roadmap.sh/card/tall/668bdd3a501413692bf3eaf9?variant=light&roadmaps=linux%2Cgolang%2Cdevops%2Ckubernetes" alt="completed learning topics" align="left"/></a>
+
 |               I love (and use)                  |                    I use/know                    |                    I'm interested                   |
 |:-----------------------------------------------:|:------------------------------------------------:|:---------------------------------------------------:|
 | ![(GNU/)Linux](https://img.shields.io/badge/-%28GNU%2F%29Linux-FCC624?style=flat&logo=linux&logoColor=black)<br>![(neo)vim](https://img.shields.io/badge/-%28neo%29vim-019733?style=flat&logo=vim&logoColor=white)<br>![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)<br>     | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)<br>![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)<br>![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)<br>![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)<br>![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)<br>![Java](https://img.shields.io/badge/-Java-007396)<br>     | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)<br>![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)<br>     |
