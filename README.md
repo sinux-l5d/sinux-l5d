@@ -2,7 +2,7 @@
 
 Hi dear visitor/colleague/friend, thanks for popping over :upside_down_face:.
 
-I'm Simon and I'm a software engineer. I'm currently on my 2nd year of French master's degree at [University Savoie Mont-Blanc](https://www.univ-smb.fr/), and working at [Capgemini](https://www.capgemini.com/) as an apprentice.
+I'm Simon and I'm a DevOps engineer. I've studied software engineering in a French master's degree at [University Savoie Mont-Blanc](https://www.univ-smb.fr/), and currently working at [Capgemini](https://www.capgemini.com/).
 
 I've also been studying Cloud Computing (BSc Hons) at [Dundalk Institute of Technology](https://www.dkit.ie/) in Ireland on an Erasmus+ :eu: exchange program.
 
