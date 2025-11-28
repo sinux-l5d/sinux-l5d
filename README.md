@@ -17,7 +17,7 @@ I've also been studying Cloud Computing (BSc Hons) at [Dundalk Institute of Tech
 
 Have mercy on me, avoid those: ![C#](https://img.shields.io/badge/-C%23-239120) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) 
 
-As a final set, my favorite tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Alacritty](https://img.shields.io/badge/-Alacritty-F46D01?style=flat&logo=alacritty&logoColor=white) ![](https://img.shields.io/badge/--) 
+As a final set, my favorite tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Alacritty](https://img.shields.io/badge/-Alacritty-F46D01?style=flat&logo=alacritty&logoColor=white) 
 
 ### Languages build bridges :people_holding_hands:
 
