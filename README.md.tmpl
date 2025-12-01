@@ -8,7 +8,7 @@ I've also been studying Cloud Computing (BSc Hons) at [Dundalk Institute of Tech
 
 ### What I do :computer:
 
-<a href="https://roadmap.sh/u/sinuxl5d"><img src="https://roadmap.sh/card/tall/668bdd3a501413692bf3eaf9?variant=light&roadmaps=devops%2Cgolang%2Ckubernetes%2Cterraform" alt="completed learning topics on roadmap.sh"/></a>
+<a href="https://roadmap.sh/u/sinuxl5d"><img src="https://roadmap.sh/card/tall/668bdd3a501413692bf3eaf9?variant=light&roadmaps=devops%2Cgolang%2Ckubernetes%2Cterraform" alt="completed learning topics on roadmap.sh" align="right" /></a>
 
 |               I love (and use)                  |                    I use/know                    |                    I'm interested                   |
 |:-----------------------------------------------:|:------------------------------------------------:|:---------------------------------------------------:|
